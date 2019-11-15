@@ -31,20 +31,8 @@
  }
 
 def naming_system
-  Kingdom = {
-    Phylum: {
-      Class: {
-        Order: {
-          Family: {
-            Genus: {
-              Species: {
-                
-              }
-            }
-          }
-        }
-      }
-    }
+  naming_system = {
+    Kingdom: "",
   }
   # Remember:
   #  Kingdom
