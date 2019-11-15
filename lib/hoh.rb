@@ -31,7 +31,14 @@
  }
 
 def naming_system
-  
+  naming_system = {
+    Kingdom: {
+      Phylum: {
+        Class: {
+        }
+      }
+    }
+  }
   # Remember:
   #  Kingdom
   #  Phylum
