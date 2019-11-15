@@ -31,7 +31,7 @@
  }
 
 def naming_system
-  Kingdom = {
+  naming_system = {
     
   }
   # Remember:
