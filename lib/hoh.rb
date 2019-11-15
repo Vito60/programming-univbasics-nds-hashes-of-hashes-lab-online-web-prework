@@ -31,19 +31,11 @@
  }
 
 def naming_system
-  naming_system = {
-    Kingdom: {
-      Phylum: {
-        Order: {
-          Class: {
-            Family: {
-              Genus: {
-                Species: {
-                  
-                }
-              }
-            }
-          }
+  Kingdom = {
+    Phylum: {
+      Class{
+        Order{
+          
         }
       }
     }
