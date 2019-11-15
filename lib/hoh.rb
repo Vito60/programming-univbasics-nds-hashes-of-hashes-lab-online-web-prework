@@ -31,6 +31,15 @@
  }
 
 def naming_system
+  PORTION_1 = {
+   :Kingdom => {
+     :Phylum => {
+       :Class => {
+         
+       }
+     }
+   }
+  }
   # Remember:
   #  Kingdom
   #  Phylum
