@@ -35,6 +35,15 @@ def naming_system
     Kingdom: {
       Phylum: {
         Class: {
+          Order: {
+            Family: {
+              Genus: {
+                Species: {
+                  
+                }
+              }
+            }
+          }
         }
       }
     }
