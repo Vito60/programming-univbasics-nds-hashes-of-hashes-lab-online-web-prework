@@ -37,9 +37,6 @@ def naming_system
         Class: {
         }
       }
-    },
-    Order: {
-      
     }
   }
   # Remember:
